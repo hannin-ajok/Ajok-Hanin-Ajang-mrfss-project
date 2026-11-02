@@ -3,7 +3,7 @@
 **Target Business:** Rafik Wholesale & Retailers  
 **Location:** Kalungi Road, Muyenga, Kampala, Uganda  
 **Version:** 2.0.0  
-**Target Platform:** Progressive Web App (Offline-First Desktop POS + Mobile Dispatch & WhatsApp Catalog)
+**Target Platform:** Progressive Web App (Offline-First Desktop POS + Mobile Dispatch & WhatsApp Catalog).
 
 ---
 
